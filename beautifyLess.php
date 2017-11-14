@@ -1,7 +1,7 @@
 <?
 /*
 *
-*	Less Beautyfier v1
+*	Less Beautifyer v1
 *	by @betoayesa 
 *	use: php clean_less.php [path to folder]
 *	MIT LICENSE
